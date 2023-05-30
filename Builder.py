@@ -1,5 +1,5 @@
-from ConfiguracaoCarro import *
-from CarroBuilder import *
+from configuracaoCarro import *
+from carroBuilder import *
 
 configuracao_carro = ConfiguracaoCarro()
 configuracao_carro.set_configuracao("Esportivo")
